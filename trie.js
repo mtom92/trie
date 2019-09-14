@@ -84,6 +84,3 @@ console.log(t.getWordFreq(cab))// 1
 t.insert(of)
 console.log(t.isWord(of))     // true
 console.log(t.getWordFreq(of))// 1
-
-// check the internal representation of the Trie
-console.log(t.root)
